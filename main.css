@@ -1,0 +1,18 @@
+body {
+  background: #ccc;
+}
+.container {
+  background: #fff;
+}
+/* h2 {
+  color: #645cff;
+} */
+div h3 {
+  color: #645cff;
+}
+p {
+  color: rgb(107, 89, 89);
+}
+.special-container {
+  background: rgba(0, 0, 0, 0.85);
+}
